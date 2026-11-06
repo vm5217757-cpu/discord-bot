@@ -1,0 +1,23 @@
+# Environment variables (SECRET - kabhi upload mat karo!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Transcripts (local data)
+transcripts/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Local run files
+run.bat
+run_hidden.vbs

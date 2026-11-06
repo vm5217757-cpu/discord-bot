@@ -1,0 +1,37 @@
+{
+  "security": {
+    "anti_spam": true,
+    "max_messages_threshold": 5,
+    "spam_interval_seconds": 4,
+    "spam_timeout_minutes": 5,
+    "anti_invites": true,
+    "anti_links": false,
+    "allowed_domains": [
+      "tenor.com",
+      "giphy.com",
+      "youtube.com",
+      "youtu.be"
+    ],
+    "bad_words": [
+      "free nitro",
+      "discordnitro",
+      "steamgift"
+    ],
+    "log_channel_id": 1486432825153552635
+  },
+  "ticket": {
+    "category_id": 1486432822091841682,
+    "support_role_id": null,
+    "ticket_counter": 0
+  },
+  "welcome": {
+    "enabled": true,
+    "channel_id": 1486587553892012212,
+    "message": "Welcome {user} to {server}! \ud83c\udf89 We are glad to have you here.",
+    "auto_role_id": 1486432821592461427
+  },
+  "verification": {
+    "verified_role_id": null,
+    "channel_id": null
+  }
+}
